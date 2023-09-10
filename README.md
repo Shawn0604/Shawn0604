@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Shawn Tsai 🙌 
+Hi,  I'm Shawn, Nice to meet you, and you?
 <!--
 **Shawn0604/Shawn0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
