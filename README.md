@@ -1,6 +1,5 @@
 # Shawn Tsai 🙌 
-I'm Shawn, a recent graduate from National Taiwan Normal University with a deep passion for web development. If you're working on a project and need a helping hand, I'd love to connect and see how we can collaborate.  
-Here is my portfolio [Shawn-portfolio](https://shawn0604.github.io/Shawn-portfolio/ "link")
+I'm Shawn, here is my portfolio [Shawn-portfolio](https://shawn0604.github.io/Shawn-portfolio/ "link")
 <!--
 **Shawn0604/Shawn0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
