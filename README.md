@@ -1,5 +1,9 @@
-# Shawn Tsai 🙌 
-I'm Shawn, here is my portfolio [Shawn-portfolio](https://shawn0604.github.io/Shawn-portfolio/ "link")
+## I'm Shawn 👋  
+Welcome to my portfolio!  
+
+🔗 [Check out my portfolio website](https://shawn0604.github.io/Shawn-portfolio/ "Shawn-portfolio")
+
+
 <!--
 **Shawn0604/Shawn0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
