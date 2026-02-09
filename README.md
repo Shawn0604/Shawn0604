@@ -1,7 +1,7 @@
 ## I'm Shawn 👋  
-Welcome to my portfolio!  
 
-🔗 [Check out my portfolio website](https://shawn0604.github.io/Shawn-portfolio/ "Shawn-portfolio")
+
+
 
 
 <!--
