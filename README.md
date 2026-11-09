@@ -2,8 +2,8 @@
 I enjoy solving problems, learning new things, and finding better ways to work.
 I value teamwork and believe IT is about making people's work easier.
 
-🌐 Here's my [portfolio](https://shawn0604.github.io/), and feel free to reach out!
-📫 Email: shawn901011@gmail.com
+🌐 Here's my [portfolio](https://shawn0604.github.io/), and feel free to reach out!<br>
+📫 Email: [shawn901011@gmail.com](mailto:shawn901011@gmail.com)
 <!--
 **Shawn0604/Shawn0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
